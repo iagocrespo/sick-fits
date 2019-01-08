@@ -14,7 +14,7 @@ class Meta extends React.Component {
           type="image/x-icon"
         />
         <link rel="stylesheet" href="static/nprogress.css" type="text/css" />
-        <title>Document</title>
+        <title>Sick Fits</title>
       </Head>
     );
   }
